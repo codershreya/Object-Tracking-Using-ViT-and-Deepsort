@@ -1,0 +1,5 @@
+numpy==1.26.4
+opencv-python==4.9.0.80
+ultralytics==8.2.12
+tensorflow==2.16.1
+scipy==1.11.2
